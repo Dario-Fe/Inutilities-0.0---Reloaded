@@ -36,7 +36,7 @@ Ecco cosa troverai in questa suite (per ora):
 
 ### 2. **Format C:**
    - L'originale simulava perfettamente la grafica del esecuzione del format C:, questo vuole essere una citazione...
-   - Scopo: nascosto nei pc dei colleghi, e inserito nell'autoexec.bat, all'aavio creava non poco panico... ;-)
+   - Scopo: nascosto nei pc dei colleghi, e inserito nell'autoexec.bat, all'avio creava non poco panico... ;-)
 
 ---
 
