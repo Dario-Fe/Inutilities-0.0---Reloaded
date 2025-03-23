@@ -1,5 +1,5 @@
 # Inutilities-0.0---Reloaded
-Strumenti inutili resucitati dagli anni 80/90
+Strumenti inutili resuscitati dagli anni 80/90
 
 **Una suite di programmi totalmente inutili, per celebrare la giovinezza e lo spirito goliardico dell'informatica degli anni '80 e '90.**
 
