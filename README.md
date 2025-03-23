@@ -26,13 +26,17 @@ Ora, tornando ai giorni nostri, durante una chiacchierata con **Matteo**, amico 
 
 Ecco cosa troverai in questa suite (per ora):
 
-### 1. **Cursore Gelindo** 🏃‍♂
+### 1. **Cursore Gelindo**
   - Un cursore che corre avanti e indietro, contando la distanza percorsa, in omaggio al leggendario Gelindo Bordin, vincitore della maratona di Seul 1988.
   - Occasione mancata: avevamo inventato lo screensaver ma non l'abbiamo capito.
 
-### 2. **Killme** ⏻
+### 2. **Killme**
    - Un programma che una volta lanciato si auto cancella.
    - Visione: se ad ogni utilizzo si cancella e deve essere riacquistato, saremmo divenati miliardari! (C'erano le lire...)
+
+### 2. **Format C:**
+   - L'originale simulava perfettamente la grafica del esecuzione del format C:, questo vuole essere una citazione...
+   - Scopo: nascosto nei pc dei colleghi, e inserito nell'autoexec.bat, all'aavio creava non poco panico... ;-)
 
 ---
 
