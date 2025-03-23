@@ -17,4 +17,4 @@ def autodistruggi():
         print("Il file non esiste già. Non posso autodistruggermi!")
 
 if __name__ == "__main__":
-    # autodistruggi()   ATTENZIONE HO COMMENTATO LA RIGA PER EVITARE LA CANCELLAZIONE INVOLONTARIA
+    autodistruggi()   # ATTENZIONE COMMENTARE LA RIGA PER EVITARE LA CANCELLAZIONE INVOLONTARIA
