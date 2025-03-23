@@ -24,7 +24,7 @@ Ora, tornando ai giorni nostri, durante una chiacchierata con **Matteo**, amico 
 
 ## 🛠️ Funzionalità (o meglio, inutilità)
 
-Ecco cosa troverai in questa suite:
+Ecco cosa troverai in questa suite (per ora):
 
 ### 1. **Cursore Gelindo** 🏃‍♂
   - Un cursore che corre avanti e indietro, contando la distanza percorsa, in omaggio al leggendario Gelindo Bordin, vincitore della maratona di Seul 1988.
