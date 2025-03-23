@@ -28,11 +28,12 @@ Ecco cosa troverai in questa suite:
 
 ### 1. **Cursore Gelindo** 🏃‍♂
   - Un cursore che corre avanti e indietro, contando la distanza percorsa, in omaggio al leggendario Gelindo Bordin, vincitore della maratona di Seul 1988.
-  - Occasione mancata: avevamo inventato lo screensaver ma non l'abbiamo capito
+  - Occasione mancata: avevamo inventato lo screensaver ma non l'abbiamo capito.
 
 ### 2. **Killme** ⏻
-   - Un programma che una volta lanciato si auto cancella
-   - 
+   - Un programma che una volta lanciato si auto cancella.
+   - Visione: se ad ogni utilizzo si cancella e deve essere riacquistato, saremmo divenati miliardari! (C'erano le lire...)
+
 ---
 
 ## Tecnologie utilizzate
@@ -48,7 +49,7 @@ Questo progetto è un modo per celebrare quella spensieratezza e per ridere un p
 
 ## 👨‍💻 Autore
 
-Dario
+Dario.
 Un nostalgico degli anni '80/'90 con una passione per il coding e il divertimento.
 Visita il mio GitHub per altri progetti (più o meno utili).
 
