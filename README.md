@@ -35,7 +35,7 @@ Ecco cosa troverai in questa suite (per ora):
    - Visione: se ad ogni utilizzo si cancella e deve essere riacquistato, saremmo divenati miliardari! (C'erano le lire...)
 
 ### 2. **Format C:**
-   - L'originale simulava perfettamente la grafica del esecuzione del format C:, questo vuole essere una citazione...
+   - L'originale simulava perfettamente la grafica dell'esecuzione del format C:, questo vuole essere una citazione...
    - Scopo: nascosto nei pc dei colleghi, e inserito nell'autoexec.bat, all'avio creava non poco panico... ;-)
 
 ---
