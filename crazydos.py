@@ -147,7 +147,7 @@ entry.focus()
 # Messaggio iniziale
 output.config(state=tk.NORMAL)
 output.insert(tk.END,
-              """Microsoft(R) InutilitY DOS Version 6.66
+              """Microsoft(R) Inutilities DOS Version 6.66
               (C) Copyright Inutilities Corp 1980-1990. All rights reserved.
               
               Digita 'help' per la lista dei comandi\n\n""")
