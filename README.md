@@ -34,10 +34,13 @@ Ecco cosa troverai in questa suite (per ora):
    - Un programma che una volta lanciato si auto cancella.
    - Visione: se ad ogni utilizzo si cancella e deve essere riacquistato, saremmo divenati miliardari! (C'erano le lire...)
 
-### 2. **Format C:**
+### 3. **Format C:**
    - L'originale simulava perfettamente la grafica dell'esecuzione del format C:, questo vuole essere una citazione...
    - Scopo: nascosto nei pc dei colleghi, e inserito nell'autoexec.bat, all'avio creava non poco panico... ;-)
 
+### 4. **CrazyDos**
+  - L'originale consisteva nella modifica del file system, in modo che il dos facesse cose strane o pericolose, tipo inversione dir con del.
+  - Scopo: era sempre quello di scherzi su PC di amici e colleghi, questo è un innocua citazione.
 ---
 
 ## Tecnologie utilizzate
