@@ -3,7 +3,7 @@ import tkinter as tk
 class CursorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Cursore Gelindo")
+        self.root.title("Inutilities 0.0 - Cursore Gelindo")
         self.root.resizable(False, False)
 
 
